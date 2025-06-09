@@ -20,6 +20,22 @@ width: 20%;
 
 } 
 
+.h3 {
+    font-size: medium;
+}
+
+.h4 {
+    font-size: medium;
+}
+
+
+.h2 {
+    font-size: large;
+}
+
+.description {
+    font-size: x-large;
+}
 
 .educacion { 
     width: 90%;
@@ -31,7 +47,7 @@ margin: 2rem;
 padding: 2%;
 } 
 
-.Experiencis{ 
+.Experience{ 
       width: 90%;
     height: 100%;
     background-color: #e6e6e6; 
@@ -110,11 +126,17 @@ footer{
     background-color: #e6e6e6;
     padding: 1rem;
 }
-
+ 
+.text-center {
+    font-size: medium;
+}
 .fondo{ 
     background-color: #e6e6e6;
 }
 
+.text-center1 {
+    font-size: large;
+}
 .card-text i {
   margin-right: 8px;
   color: #007bff; /* azul para resaltar */
